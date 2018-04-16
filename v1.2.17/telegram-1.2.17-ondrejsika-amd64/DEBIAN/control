@@ -1,0 +1,8 @@
+Package: telegram
+Version: 1.2.17
+Architecture: amd64
+Maintainer: Ondrej Sika <ondrej@ondrejsika.com>
+Depends:
+Priority: extra
+Description: Telegram desktop client
+
